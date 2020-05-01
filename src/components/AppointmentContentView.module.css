@@ -1,0 +1,85 @@
+
+.container
+{
+    font-family: 'Roboto', 'Helvetica', 'Arial', sans-serif;
+
+    display: block;
+
+    box-sizing: border-box;
+    padding: 16px;
+}
+
+.name
+{
+    font-size: 16px;
+    font-weight: 800;
+
+    display: block;
+
+    color: #fafafa;
+}
+
+.where
+{
+    font-size: 14px;
+    font-weight: 300;
+
+    display: flex;
+    flex-flow: row nowrap;
+
+    white-space: pre-wrap;
+
+    color: #eee;
+}
+
+.room
+{
+    text-transform: lowercase;
+}
+
+.trainers
+{
+    margin-top: 12px;
+}
+
+.trainer
+{
+    font-size: 14px;
+    font-weight: 400;
+}
+
+
+.at
+{
+    font-size: 14px;
+    font-weight: 300;
+
+    display: flex;
+    flex-flow: row nowrap;
+
+    white-space: pre-wrap;
+
+    color: #eee;
+}
+
+
+.eventButton
+{
+    font-size: 16px;
+
+    display: flex;
+    align-items: center;
+    flex-flow: row nowrap;
+    justify-content: center;
+
+    height: 32px;
+    margin-top: 10px;
+    padding: 6px 10px;
+
+    text-align: center;
+    text-decoration: none;
+
+    color: white;
+    border-radius: 8px;
+    background: #333;
+}

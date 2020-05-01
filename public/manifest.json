@@ -1,0 +1,18 @@
+{
+    "name": "World Class Schedule",
+    "short_name": "WC Schedule",
+    "lang": "en",
+    "dir": "ltr",
+    "icons": [
+        {
+            "src": "favicon.ico",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ],
+    "scope": ".",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#000000"
+}

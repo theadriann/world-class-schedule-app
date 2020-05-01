@@ -1,0 +1,42 @@
+{
+  "name": "world-class-schedule-app",
+  "version": "0.0.1",
+  "main": "index.js",
+  "dependencies": {
+    "@devexpress/dx-react-core": "2.4.0",
+    "@devexpress/dx-react-scheduler": "2.4.0",
+    "@devexpress/dx-react-scheduler-material-ui": "2.4.0",
+    "@material-ui/core": "4.9.1",
+    "@material-ui/icons": "4.9.1",
+    "axios": "0.19.2",
+    "elasticlunr": "0.9.5",
+    "lodash": "4.17.15",
+    "moment": "2.24.0",
+    "moment-duration-format": "^2.3.2",
+    "react": "16.12.0",
+    "react-add-to-calendar-hoc": "^1.0.9",
+    "react-dom": "16.12.0",
+    "reset-css": "^5.0.1"
+  },
+  "devDependencies": {
+    "react-scripts": "3.3.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
