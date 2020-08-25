@@ -1,6 +1,9 @@
 {
     "name": "World Class Schedule",
     "short_name": "WC Schedule",
+    "description": "World Class Schedule Scraper",
+    "orientation": "any",
+    "display": "standalone",
     "lang": "en",
     "dir": "ltr",
     "icons": [
@@ -10,9 +13,8 @@
             "type": "image/png"
         }
     ],
-    "scope": ".",
+    "scope": "/",
     "start_url": "./index.html",
-    "display": "standalone",
     "theme_color": "#000000",
     "background_color": "#000000"
 }
