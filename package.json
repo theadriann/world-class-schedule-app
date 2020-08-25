@@ -10,7 +10,7 @@
     "@material-ui/icons": "4.9.1",
     "axios": "0.19.2",
     "elasticlunr": "0.9.5",
-    "lodash": "4.17.15",
+    "lodash": "4.17.19",
     "moment": "2.24.0",
     "moment-duration-format": "^2.3.2",
     "react": "16.12.0",
